@@ -1,0 +1,61 @@
+body{
+  margin:7.5%;
+  background-color:#222233
+}
+h1{
+  
+  text-align:center;
+  color:#66ccff
+}
+h2{
+  color:#66cccc   
+}
+h3{
+  color:#66cc99 
+}
+h4{
+  color:#66cc66
+}
+h5{
+  color:#66cc33
+}
+h6{
+  color:#66cc00
+}
+p{
+  text-align:justyfy;
+  color:#d0d0d0
+}
+.cblank{
+  color:d0d0d0
+}
+.cred{
+  color:#ff3333
+}
+.corange{
+  color:#ff9933
+}
+.cyellow{
+  color:#ffff33
+}
+.cgreen{
+  color:#33ff33
+}
+.cceleste{
+  color:#66ffff
+}
+.cblue{
+  color:#6666ff
+}
+.cpurple{
+  color:#b266ff
+}
+.cpink{
+  color:#ff99cc
+}
+.cgrey{
+  color:#808080
+}
+b.sp{
+  color:#ffff33
+}
